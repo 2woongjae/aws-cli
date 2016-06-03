@@ -1,3 +1,3 @@
-# aws configure
+# 설치하기
 
-aws-shell 에 자신의 계정권한을 등록해서 사용한다.
+aws-cli 와 aws-shell 을 자신의 컴퓨터에 설치해보자.
