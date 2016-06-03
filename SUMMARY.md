@@ -7,4 +7,5 @@
    * [aws-shell 설치](aws-shell_c124_ce58.md)
 * [시작하기](c2dc_c791_d558_ae30.md)
    * [프로파일](d504_b85c_d30c_c77c.md)
+   * Access Key ID 와 Secret Access Key
 
