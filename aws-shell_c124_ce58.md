@@ -8,3 +8,7 @@ pip install aws-shell
 ```
 
 설치가 끝나면 다음과 같이 aws-shell 을 이용하여 셀로 진입할 수 있다.
+
+```
+LeeWoongjaeui-MacBook-Air:~ leewoongjae$ aws-shell
+```
