@@ -12,3 +12,5 @@ pip install aws-shell
 ```
 LeeWoongjaeui-MacBook-Air:~ leewoongjae$ aws-shell
 ```
+
+![](스크린샷 2016-06-03 오후 4.14.57.png)
