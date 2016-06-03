@@ -1,4 +1,4 @@
-# aws-cli 설치
+# AWS CLI 설치
 
 
 > 본 교재는 OS X El Capitan 10.11.5 에서 진행되었음.
