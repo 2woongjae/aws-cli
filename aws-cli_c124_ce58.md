@@ -1,9 +1,6 @@
 # AWS CLI 설치
 
 
-> OS X El Capitan 10.11.5 에서 진행되었음.
-
-
 Mac(또는 Linux)에서 AWS 명령줄 인터페이스(CLI) 를 설치하려면, **Python 2.6.5 이상**이 필요하다. **pip**를 사용하여 설치한다.
 
 ```
