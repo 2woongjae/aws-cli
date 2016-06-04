@@ -9,4 +9,5 @@
    * [프로파일](d504_b85c_d30c_c77c.md)
    * [Access Key ID 와 Secret Access Key](access_key_id_c640_secret_access_key.md)
 * [SNS](sns.md)
+   * SNS를 이용하여 이메일 보내기
 
