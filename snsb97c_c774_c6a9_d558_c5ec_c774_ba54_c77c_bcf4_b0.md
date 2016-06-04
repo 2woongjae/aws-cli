@@ -122,7 +122,7 @@ aws> sns publish --topic-arn arn:aws:sns:ap-northeast-2:961228086927:TestTopic -
 }
 ```
 
-> 제목과 내용을 가지고 토픽에 퍼블리시하는 명령이다. 정상적으로 마치면
+> 제목과 내용을 가지고 토픽에 퍼블리시하는 명령이다. 정상적으로 마치면 "MessageId" 와 함께 잠시후 메일이 도착했을 것이다.
 
 
 
