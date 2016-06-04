@@ -5,6 +5,7 @@
    * [aws-cli 버전 업그레이드](aws-cli_bc84_c804_c5c5_adf8_b808_c774_b4dc.md)
    * [aws-shell 설치](aws-shell_c124_ce58.md)
 * [SNS](README.md)
+   * SNS를 이용하여 이메일 보내기
 * [시작하기](c2dc_c791_d558_ae30.md)
    * [프로파일](d504_b85c_d30c_c77c.md)
    * [Access Key ID 와 Secret Access Key](access_key_id_c640_secret_access_key.md)
