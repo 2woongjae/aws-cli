@@ -1,6 +1,6 @@
 # Summary
 
-* [SNS](README.md)
+* [읽어보기](README.md)
 * [설치하기](chapter1.md)
    * [aws-cli 설치](aws-cli_c124_ce58.md)
    * [aws-cli 버전 업그레이드](aws-cli_bc84_c804_c5c5_adf8_b808_c774_b4dc.md)
