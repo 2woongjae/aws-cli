@@ -115,6 +115,14 @@ aws> sns list-subscriptions-by-topic --topic-arn arn:aws:sns:ap-northeast-2:9612
 > 다시 토픽의 arn을 기준으로 서브스크립션들을 리턴해보면, 이제는 "SubscriptionArn" 이 제대로 나온다. 이제 서브스크립션이 정상적으로 작동할 것이다.
 
 ---
+```
+aws> sns publish --topic-arn arn:aws:sns:ap-northeast-2:961228086927:TestTopic --subject Title --message content
+{
+    "MessageId": "70a933dd-aa40-5521-b533-7c1140d0916a"
+}
+```
+
+> 제목과 내용을 가지고 토픽에 퍼블리시하는 명령이다. 정상적으로 마치면
 
 
 
