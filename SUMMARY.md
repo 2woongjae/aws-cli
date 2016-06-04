@@ -10,5 +10,5 @@
    * [Access Key ID 와 Secret Access Key](access_key_id_c640_secret_access_key.md)
 * [SNS](sns.md)
    * [SNS를 이용하여 이메일 보내기](snsb97c_c774_c6a9_d558_c5ec_c774_ba54_c77c_bcf4_b0.md)
-   * 예제
+   * [예제](c608_c81c.md)
 
