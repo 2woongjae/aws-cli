@@ -8,6 +8,5 @@
 * [시작하기](c2dc_c791_d558_ae30.md)
    * [프로파일](d504_b85c_d30c_c77c.md)
    * [Access Key ID 와 Secret Access Key](access_key_id_c640_secret_access_key.md)
-* [SNS를 이용하여 이메일 보내기](snsb97c_c774_c6a9_d558_c5ec_c774_ba54_c77c_bcf4_b0.md)
 * SNS
 
