@@ -10,12 +10,41 @@
 
 SNS는 리전 단위의 서비스이다. 자신의 리전이 어디인지 생각해보고 진행하도록~!
 
+
+
+---
 ```
 aws> sns list-topics
 {
     "Topics": []
 }
 ```
+> 현재 리전의 전체 토픽의 리스트를 리턴하는 명령이다. 당연히 그전에 아무것도 안해봤으면 저렇게 나온다.
 
-> 현재 리전의 전체 토픽의 리스트를 리턴하는 명령이다.
+---
+```
+aws> sns create-topic --name TestTopic
+{
+    "TopicArn": "arn:aws:sns:ap-northeast-2:961228086927:TestTopic"
+}
+```
+> 토픽의 이름을 지정하여 새 토픽을 만드는 명령이다. 성공적으로 만들어지면, arn 을 리턴해준다.
+
+---
+```
+aws> sns list-topics
+{
+    "Topics": [
+        {
+            "TopicArn": "arn:aws:sns:ap-northeast-2:961228086927:TestTopic"
+        }
+    ]
+}
+```
+
+> 다시 한번 토픽의 리스트를 확인해보자. 처음과 다르게 만든 토픽을 볼 수 있다.
+
+---
+
+
 
