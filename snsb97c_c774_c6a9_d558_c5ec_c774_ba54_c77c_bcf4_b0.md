@@ -112,7 +112,11 @@ aws> sns list-subscriptions-by-topic --topic-arn arn:aws:sns:ap-northeast-2:9612
 }
 ```
 
-> 다시 토픽의 arn을 기준으로 서브스크립션들을 리턴해보면, 이제는 "SubscriptionArn" 이 제대로 나온다.
+> 다시 토픽의 arn을 기준으로 서브스크립션들을 리턴해보면, 이제는 "SubscriptionArn" 이 제대로 나온다. 이제 서브스크립션이 정상적으로 작동할 것이다.
+
+---
+
+
 
 
 
